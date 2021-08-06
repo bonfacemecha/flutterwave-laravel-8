@@ -163,7 +163,7 @@
                     // close modal
                 },
                 customizations: {
-                    title: "Jubilee Life Insurance",
+                    title: "BM Studio",
                     description: "Payment for items in cart",
                     logo: "https://s3-us-west-2.amazonaws.com/hp-cdn-01/uploads/orgs/flutterwave_logo.jpg?69",
                 },
